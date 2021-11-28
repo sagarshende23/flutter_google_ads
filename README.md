@@ -21,7 +21,7 @@
  
 </p>
 
-[![Youtube](https://raw.githubusercontent.com/sagarshende23/shared_preference_flutter/master/Subscribe.png)](https://youtu.be/X6Cz48cLuE4)
+[![Youtube](https://raw.githubusercontent.com/sagarshende23/shared_preference_flutter/master/Subscribe.png)](https://www.youtube.com/channel/UCEW4YMELtVeLjcpAzevNabg)
 
 
 
@@ -77,7 +77,7 @@ Add the AdMob App ID ([identified in the AdMob UI](https://support.google.com/ad
 
 ## 📱 Watch Video on How to Add new Google Mobile Ads in Flutter App 2021 #
 
-[![Youtube](https://raw.githubusercontent.com/sagarshende23/flutter_google_ads/master/flutter_ads%20_2021.png)](https://www.youtube.com/channel/UCEW4YMELtVeLjcpAzevNabg?sub_confirmation=1)
+[![Youtube](https://raw.githubusercontent.com/sagarshende23/flutter_google_ads/master/flutter_ads%20_2021.png)](https://youtu.be/X6Cz48cLuE4)
 
 ####  Select Banner Ads Sizes
 
